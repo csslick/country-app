@@ -7,7 +7,7 @@ export default function Home(props) {
   return (
     <div>
       <form action="/detail/fr" className='container'>
-        <input type="search" placeholder='search'/>
+        <input type="search" placeholder='search' size="30" />
         <button className="btn" type="submit">search</button>
       </form>
       <section className="main flex-container">
