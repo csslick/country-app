@@ -126,7 +126,7 @@ input {
   color: #fff;
 }
 
-form.container {
+.search-ui.container {
   display: flex;
   justify-content: center;
 }
